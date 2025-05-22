@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-# 👋 Hi there, I'm Myers Guo
+## 👋 Hi there, I'm Myers Guo
 
 Welcome to my GitHub profile! I'm a passionate developer focused on building innovative solutions with a blend of backend, frontend, and cloud technologies.
 
